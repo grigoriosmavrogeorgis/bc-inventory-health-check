@@ -45,3 +45,8 @@ Thumbs.db
 
 # AL compiler cache
 **/.alcache/
+
+# Local agent settings created inside a project folder
+app/.claude/
+test/.claude/
+demo/.claude/
