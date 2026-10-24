@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Compiles the GSO Inventory Health Check app (and optionally its test and demo
+    Compiles the Inventory Health Check app (and optionally its test and demo
     apps) with the code analyzers and the project rulesets, failing on compiler errors
     and on a non-zero compiler exit code.
 

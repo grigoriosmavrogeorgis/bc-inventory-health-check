@@ -1,6 +1,6 @@
-# Glossary English -> Greek (el-GR), GSO Inventory Health Check
+# Glossary English -> Greek (el-GR), Inventory Health Check
 
-One Greek term per English concept; the app's Greek UI (`app/Translations/GSO Inventory Health Check.el-GR.xlf`)
+One Greek term per English concept; the app's Greek UI (`app/Translations/Inventory Health Check.el-GR.xlf`)
 uses exactly these terms. Style: formal; ToolTips start with "Καθορίζει ..."; action ToolTips are nominal
 ("Προβολή ...", "Σύγκριση ..."); "must"/"cannot" are never softened.
 

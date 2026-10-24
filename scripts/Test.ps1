@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Runs the GSO Inventory Health Check test suite in a Business Central container.
+    Runs the Inventory Health Check test suite in a Business Central container.
 
 .DESCRIPTION
     The tests build their scenarios by inserting Item Ledger Entry and Warehouse Entry rows

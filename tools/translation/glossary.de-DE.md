@@ -1,6 +1,6 @@
 # Glossary English -> German (de-DE), Inventory Health Check
 
-One German term per English concept; used everywhere in `app/Translations/GSO Inventory Health Check.de-DE.xlf`.
+One German term per English concept; used everywhere in `app/Translations/Inventory Health Check.de-DE.xlf`.
 Style: formal "Sie"; field ToolTips "Gibt ... an."; action ToolTips imperative ("Zeigen Sie ... an.");
 "must / cannot" kept strict ("muss", "kann nicht", "darf nicht").
 

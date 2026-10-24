@@ -1,6 +1,6 @@
 # Glossary es-ES - Inventory Health Check
 
-Spanish (Spain) terminology used in `app/Translations/GSO Inventory Health Check.es-ES.xlf`.
+Spanish (Spain) terminology used in `app/Translations/Inventory Health Check.es-ES.xlf`.
 One Spanish term per English concept.
 
 Sources:
