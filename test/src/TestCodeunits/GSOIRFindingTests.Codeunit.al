@@ -98,7 +98,7 @@ codeunit 50755 "GSO IR Finding Tests"
         Advice: Text;
         RuleValue: Integer;
     begin
-        // [SCENARIO] Every rule R1..R8 has advice, and no two rules share the same advice.
+        // [SCENARIO] Every rule has advice, and no two rules share the same advice.
         // [WHEN] The advice of every rule is read
         foreach RuleValue in Enum::"GSO IR Rule".Ordinals() do
             if RuleValue <> Enum::"GSO IR Rule"::" ".AsInteger() then begin
@@ -109,7 +109,7 @@ codeunit 50755 "GSO IR Finding Tests"
                 Assert.IsFalse(Advices.Contains(Advice), StrSubstNo(RepeatedAdviceMsg, Enum::"GSO IR Rule".FromInteger(RuleValue)));
                 Advices.Add(Advice);
             end;
-        Assert.AreEqual(8, Advices.Count(), 'Expected advice for eight rules.');
+        Assert.AreEqual(Enum::"GSO IR Rule".Ordinals().Count() - 1, Advices.Count(), 'Expected advice for every rule except the blank one.');
         Assert.AreEqual('', FindingMgt.GetAdvice(Enum::"GSO IR Rule"::" "), 'A blank rule has no advice.');
     end;
 
