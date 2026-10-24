@@ -40,3 +40,4 @@ Rebrand (24-10-2026):
 - New logo (box with a pulse line) in `app/images/logo.png`; listing sizes in `listing/logo`.
 - Website paths moved to `gmsoftdynamics.com/apps/free/inventory-health-check/` (app, help and Get Help links).
 - User guide in `docs/user-guide/User-Guide.md` and AppSource listing texts in `listing/doc/AppSource-Listing.md` (English).
+- App name in app.json is now "Inventory Health Check" (was "GSO Inventory Health Check"), because AppSource validation requires it to match the offer name. The test and demo apps and the translation files are renamed to match; the app ID, object names and IDs are unchanged.

@@ -5,7 +5,7 @@
         {
             "id": "AS0081",
             "action": "None",
-            "justification": "internalsVisibleTo exposes internals only to the GSO Inventory Health Check Tests app, which tests internal codeunits."
+            "justification": "internalsVisibleTo exposes internals only to the Inventory Health Check Tests app, which tests internal codeunits."
         }
     ]
 }

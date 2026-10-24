@@ -1,4 +1,4 @@
-# APP.md - GSO Inventory Health Check
+# APP.md - Inventory Health Check
 
 Generic rules live in [AGENTS.md](./AGENTS.md). This file holds only what is true for **this one app**.
 
@@ -6,7 +6,7 @@ Generic rules live in [AGENTS.md](./AGENTS.md). This file holds only what is tru
 
 | | |
 |---|---|
-| App name | **GSO Inventory Health Check** |
+| App name | **Inventory Health Check** |
 | App ID | 22b44ef7-69c0-4a5a-9dc7-7d5ddc45cc2a |
 | Version | 1.29.1.0 (Major.BC.Release.Fix) |
 | Publisher | GMSOFT Limited |
