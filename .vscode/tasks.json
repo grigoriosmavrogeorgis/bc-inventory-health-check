@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Application",
+            "type": "shell",
+            "command": "pwsh",
+            "args": ["-File", "${workspaceFolder}/scripts/Build.ps1"],
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Tests",
+            "type": "shell",
+            "command": "pwsh",
+            "args": ["-File", "${workspaceFolder}/scripts/Test.ps1"],
+            "problemMatcher": []
+        }
+    ]
+}

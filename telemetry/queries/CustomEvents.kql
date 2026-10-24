@@ -1,0 +1,3 @@
+traces
+| where tostring(customDimensions.eventId) startswith "alGMSOFT-"
+| order by timestamp desc

@@ -1,0 +1,3 @@
+traces
+| where timestamp > ago(24h)
+| order by timestamp desc

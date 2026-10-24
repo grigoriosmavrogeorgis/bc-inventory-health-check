@@ -1,0 +1,31 @@
+name: Build
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install BcContainerHelper
+        shell: pwsh
+        run: Install-Module BcContainerHelper -Force -Scope CurrentUser -AllowClobber
+
+      - name: Provision AL compiler, LinterCop and symbols
+        shell: pwsh
+        run: ./scripts/DownloadSymbols.ps1 -PackageCachePath ./app/.alpackages
+
+      - name: Build app, test app and demo app (CodeCop, UICop, AppSourceCop, LinterCop, project rulesets)
+        shell: pwsh
+        run: ./scripts/Build.ps1 -IncludeTests -IncludeDemo -FailOnWarnings
+
+      - name: Upload packages
+        uses: actions/upload-artifact@v4
+        with:
+          name: apps
+          path: artifacts/*.app
+          if-no-files-found: error

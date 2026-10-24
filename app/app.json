@@ -1,0 +1,51 @@
+{
+    "id": "22b44ef7-69c0-4a5a-9dc7-7d5ddc45cc2a",
+    "name": "GSO Inventory Health Check",
+    "version": "1.29.1.0",
+    "brief": "Free check that finds where Item Ledger, Warehouse Entries and Bin Content do not agree - without changing any ledger entry.",
+    "description": "Inventory Health Check is the free diagnosis from GMSOFT. It compares Item Ledger Entries, Warehouse Entries and Bin Content per item, variant, location, bin and lot, explains each difference with its probable cause and the Microsoft best practice to fix it, and shows the entries behind it. The app only reads; it never posts and never changes ledger entries.",
+    "privacyStatement": "https://gmsoftdynamics.com/privacy-statement-uk/",
+    "EULA": "https://gmsoftdynamics.com/eula/",
+    "help": "https://gmsoftdynamics.com/apps/free/inventory-health-check/docs/",
+    "url": "https://gmsoftdynamics.com/apps/free/inventory-health-check/",
+    "logo": "images/logo.png",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "29.0.0.0",
+    "application": "29.0.0.0",
+    "idRanges": [
+        {
+            "from": 73033900,
+            "to": 73033959
+        }
+    ],
+    "contextSensitiveHelpUrl": "https://gmsoftdynamics.com/apps/free/inventory-health-check/docs/",
+    "target": "Cloud",
+    "resourceExposurePolicy": {
+        "allowDebugging": false,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": false
+    },
+    "runtime": "18.0",
+    "applicationInsightsConnectionString": "InstrumentationKey=a46c32ec-b1ff-4165-a3c0-c422b3baf32c;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/;ApplicationId=9349f3ff-11ab-4e86-95f5-b4e9383be443",
+    "publisher": "GMSOFT Limited",
+    "internalsVisibleTo": [
+        {
+            "id": "dc908fa6-3911-4360-bdbc-0b75b80aab01",
+            "name": "GSO Inventory Health Check Tests",
+            "publisher": "GMSOFT Limited"
+        }
+    ],
+    "features": [
+        "NoImplicitWith",
+        "TranslationFile"
+    ],
+    "supportedLocales": [
+        "en-GB",
+        "el-GR",
+        "it-IT",
+        "de-DE",
+        "fr-FR",
+        "es-ES"
+    ]
+}

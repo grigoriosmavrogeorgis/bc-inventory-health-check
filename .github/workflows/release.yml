@@ -1,0 +1,12 @@
+name: Release
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release placeholder
+        shell: pwsh
+        run: ./scripts/Publish.ps1

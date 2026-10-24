@@ -1,0 +1,1245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="GSO Inventory Health Check">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2165036637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check Analysis Run</source>
+          <target state="translated">Ejecución de análisis de Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 1637095154 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how long the analysis took.</source>
+          <target state="translated">Especifica cuánto tiempo tardó el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Duration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <target state="translated">Duración</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2852966117 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies why the analysis failed.</source>
+          <target state="translated">Especifica por qué falló el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Error Message - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2852966117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Message</source>
+          <target state="translated">Mensaje de error</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Error Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 1400640745 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the analysis finished.</source>
+          <target state="translated">Especifica cuándo finalizó el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Finished At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 1400640745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished At</source>
+          <target state="translated">Finalizado el</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Finished At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 60453471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item filter that the analysis used.</source>
+          <target state="translated">Especifica el filtro de productos que utilizó el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Item Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 60453471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Filter</source>
+          <target state="translated">Filtro producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Item Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 4277715959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location filter that the analysis used.</source>
+          <target state="translated">Especifica el filtro de almacenes que utilizó el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Location Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 4277715959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Filter</source>
+          <target state="translated">Filtro almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Location Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3636389329 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many locations the analysis checked.</source>
+          <target state="translated">Especifica cuántos almacenes comprobó el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Locations Analysed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3636389329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locations Analysed</source>
+          <target state="translated">Almacenes analizados</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Locations Analysed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the analysis run.</source>
+          <target state="translated">Especifica el número de la ejecución del análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">N.º</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3977792495 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many critical differences the analysis found. Critical differences have no standard posting that fixes them.</source>
+          <target state="translated">Especifica cuántas diferencias críticas encontró el análisis. Las diferencias críticas no tienen ningún registro estándar que las corrija.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Critical - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3977792495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Critical</source>
+          <target state="translated">Crítico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Critical - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3690942980 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many differences the analysis found.</source>
+          <target state="translated">Especifica cuántas diferencias encontró el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Findings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3690942980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Findings</source>
+          <target state="translated">N.º de hallazgos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Findings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3663268724 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many informational findings the analysis found, such as pending warehouse adjustments.</source>
+          <target state="translated">Especifica cuántos hallazgos informativos encontró el análisis, como ajustes de almacén pendientes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Info - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 3663268724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Info</source>
+          <target state="translated">Información</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2743730633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many warnings the analysis found.</source>
+          <target state="translated">Especifica cuántas advertencias encontró el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Warnings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2743730633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warnings</source>
+          <target state="translated">Advertencias</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field No. of Warnings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2014922888 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the analysis started.</source>
+          <target state="translated">Especifica cuándo se inició el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Started At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2014922888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Started At</source>
+          <target state="translated">Iniciado el</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Started At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the analysis is running, completed or failed.</source>
+          <target state="translated">Especifica si el análisis está en ejecución, completado o fallido.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user who ran the analysis.</source>
+          <target state="translated">Especifica el usuario que ejecutó el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2165036637 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target state="translated">Id. usuario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Analysis Run - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check Finding</source>
+          <target state="translated">Hallazgo de Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1804547880 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies what Microsoft best practice recommends for this kind of difference. The app never posts; you review and post any correction.</source>
+          <target state="translated">Especifica lo que aconsejan las prácticas recomendadas de Microsoft para este tipo de diferencia. La aplicación nunca registra; usted revisa y registra cualquier corrección.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Advice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1804547880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Advice</source>
+          <target state="translated">Recomendación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Advice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2814799924 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bin that has the difference, if the check is per bin.</source>
+          <target state="translated">Especifica la ubicación que tiene la diferencia, si la comprobación es por ubicación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Bin Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2814799924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin Code</source>
+          <target state="translated">Cód. ubicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies your own notes about the finding.</source>
+          <target state="translated">Especifica sus propias notas sobre el hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target state="translated">Comentario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2570673311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the finding was created.</source>
+          <target state="translated">Especifica cuándo se creó el hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Created At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2570673311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created At</source>
+          <target state="translated">Creado el</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Created At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3816727413 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the difference in the base unit of measure.</source>
+          <target state="translated">Especifica la diferencia en la unidad de medida base.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Difference (Base) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3816727413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difference (Base)</source>
+          <target state="translated">Diferencia (base)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Difference (Base) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the finding.</source>
+          <target state="translated">Especifica el número del hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target state="translated">N.º mov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3718248986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting or registering date on which the difference first appeared. Look at the documents posted on this date to find the cause.</source>
+          <target state="translated">Especifica la fecha de registro (contable o de almacén) en la que apareció por primera vez la diferencia. Revise los documentos registrados en esta fecha para encontrar la causa.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field First Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3718248986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Date</source>
+          <target state="translated">Primera fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field First Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2842094365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the item.</source>
+          <target state="translated">Especifica la descripción del producto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Item Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <target state="translated">Descripción producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2478343250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity in the item ledger entries, in the base unit of measure.</source>
+          <target state="translated">Especifica la cantidad de los movimientos de producto, en la unidad de medida base.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Item Ledger Qty. (Base) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2478343250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Qty. (Base)</source>
+          <target state="translated">Cdad. movs. producto (base)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Item Ledger Qty. (Base) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item that has the difference.</source>
+          <target state="translated">Especifica el producto que tiene la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">N.º producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location that has the difference.</source>
+          <target state="translated">Especifica el almacén que tiene la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target state="translated">Cód. almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1482668068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the lot number that has the difference.</source>
+          <target state="translated">Especifica el número de lote que tiene la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Lot No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <target state="translated">N.º lote</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 4240543679 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the package number that has the difference.</source>
+          <target state="translated">Especifica el número de paquete que tiene la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Package No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package No.</source>
+          <target state="translated">N.º paquete</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1854974496 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the most likely reason for the difference.</source>
+          <target state="translated">Especifica el motivo más probable de la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Probable Cause - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1854974496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Probable Cause</source>
+          <target state="translated">Causa probable</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Probable Cause - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 806193894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity per unit of measure of the warehouse entries, if the check is per conversion factor.</source>
+          <target state="translated">Especifica la cantidad por unidad de medida de los movimientos de almacén, si la comprobación es por factor de conversión.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Qty. per Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 806193894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. per Unit of Measure</source>
+          <target state="translated">Cant. por unidad medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Qty. per Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2666907530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the check that found the difference.</source>
+          <target state="translated">Especifica la comprobación que encontró la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Rule - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2666907530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rule</source>
+          <target state="translated">Regla</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Rule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1910573226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the analysis run that found the difference.</source>
+          <target state="translated">Especifica la ejecución del análisis que encontró la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Run No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1910573226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run No.</source>
+          <target state="translated">N.º ejecución</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Run No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 47037625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the serial number that has the difference.</source>
+          <target state="translated">Especifica el número de serie que tiene la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Serial No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 47037625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <target state="translated">N.º serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Serial No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3618771765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how serious the difference is. Critical differences have no standard posting that fixes them.</source>
+          <target state="translated">Especifica la gravedad de la diferencia. Las diferencias críticas no tienen ningún registro estándar que las corrija.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Severity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3618771765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Severity</source>
+          <target state="translated">Gravedad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Severity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies where the finding is in your review.</source>
+          <target state="translated">Especifica en qué punto de su revisión se encuentra el hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3433622749 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the status was last changed.</source>
+          <target state="translated">Especifica cuándo se cambió el estado por última vez.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Status Changed At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3433622749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Changed At</source>
+          <target state="translated">Estado cambiado el</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Status Changed At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1843757767 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user who last changed the status.</source>
+          <target state="translated">Especifica el usuario que cambió el estado por última vez.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Status Changed By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 1843757767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Changed By</source>
+          <target state="translated">Estado cambiado por</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Status Changed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unit of measure of the warehouse entries, if the check is per unit of measure.</source>
+          <target state="translated">Especifica la unidad de medida de los movimientos de almacén, si la comprobación es por unidad de medida.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Unit of Measure Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <target state="translated">Cód. unidad medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3450651614 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item variant that has the difference.</source>
+          <target state="translated">Especifica la variante de producto que tiene la diferencia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Variant Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant Code</source>
+          <target state="translated">Cód. variante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Variant Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 4007807621 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the quantity in the warehouse entries, in the base unit of measure. For the item ledger check this includes the adjustment bin.</source>
+          <target state="translated">Especifica la cantidad de los movimientos de almacén, en la unidad de medida base. En la comprobación de los movimientos de producto incluye la ubicación de ajuste.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Warehouse Qty. (Base) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 27928663 - Field 4007807621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Qty. (Base)</source>
+          <target state="translated">Cdad. almacén (base)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Finding - Field Warehouse Qty. (Base) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check Setup</source>
+          <target state="translated">Configuración de Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 2883909525 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the analysis walks back through the entries to find the date on which each difference first appeared. This points to the document that created it, but makes the analysis slower.</source>
+          <target state="translated">Especifica si el análisis recorre hacia atrás los movimientos para encontrar la fecha en la que apareció por primera vez cada diferencia. Esto señala el documento que la creó, pero hace que el análisis sea más lento.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Find First Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 2883909525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find First Date of Difference</source>
+          <target state="translated">Buscar primera fecha de la diferencia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Find First Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1036994596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item journal batch in which correction journals are prepared.</source>
+          <target state="translated">Especifica la sección del diario de productos en la que se preparan los diarios de corrección.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Item Jnl. Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1036994596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Batch</source>
+          <target state="translated">Sección diario productos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Item Jnl. Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1986361968 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the item journal template in which correction journals are prepared.</source>
+          <target state="translated">Especifica el libro del diario de productos en el que se preparan los diarios de corrección.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Item Jnl. Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1986361968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Template</source>
+          <target state="translated">Libro diario productos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Item Jnl. Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 4277715959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the locations that the analysis checks. Leave blank to check every location with Bin Mandatory turned on.</source>
+          <target state="translated">Especifica los almacenes que comprueba el análisis. Déjelo en blanco para comprobar todos los almacenes que tengan activado Ubicación obligatoria.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Location Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 4277715959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Filter</source>
+          <target state="translated">Filtro almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Location Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 2399739955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many days quantity can stay in the adjustment bin before the finding becomes a warning. Microsoft recommends posting warehouse adjustments regularly, for example daily.</source>
+          <target state="translated">Especifica cuántos días puede permanecer una cantidad en la ubicación de ajuste antes de que el hallazgo pase a ser una advertencia. Microsoft recomienda registrar los ajustes de almacén con regularidad, por ejemplo, a diario.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Max. Pending Adj. Age (Days) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 2399739955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Pending Adjustment Age (Days)</source>
+          <target state="translated">Antigüedad máx. ajuste pendiente (días)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Max. Pending Adj. Age (Days) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1688442427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user who is notified when the scheduled health check finds new critical differences.</source>
+          <target state="translated">Especifica el usuario al que se notifica cuando la comprobación de estado programada encuentra nuevas diferencias críticas.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Notification User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1688442427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification User ID</source>
+          <target state="translated">Id. usuario notificación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Notification User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Clave primaria</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1908046867 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the reason code that prepared journal lines get, so that the posted entries can be traced back to the finding.</source>
+          <target state="translated">Especifica el código de auditoría que reciben las líneas de diario preparadas, para que los movimientos registrados se puedan rastrear hasta el hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Reason Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target state="translated">Cód. auditoría</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 120567479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the largest difference, in the base unit of measure, that is not reported. Leave 0 to report every difference.</source>
+          <target state="translated">Especifica la mayor diferencia, en la unidad de medida base, que no se notifica. Deje 0 para notificar todas las diferencias.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Tolerance (Base) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 120567479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tolerance (Base)</source>
+          <target state="translated">Tolerancia (base)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Tolerance (Base) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1424884358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the warehouse journal batch in which correction journals are prepared.</source>
+          <target state="translated">Especifica la sección del diario de almacén en la que se preparan los diarios de corrección.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Whse. Jnl. Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 1424884358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Journal Batch</source>
+          <target state="translated">Sección diario almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Whse. Jnl. Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 3513285730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the warehouse journal template in which correction journals are prepared.</source>
+          <target state="translated">Especifica el libro del diario de almacén en el que se preparan los diarios de corrección.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Whse. Jnl. Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 4186576001 - Field 3513285730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Journal Template</source>
+          <target state="translated">Libro diario almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GSO IR Setup - Field Whse. Jnl. Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 476674304 - NamedType 3634927856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis %1 failed: %2</source>
+          <target state="translated">El análisis %1 ha fallado: %2</target>
+          <note from="Developer" annotates="general" priority="2">%1 = run number, %2 = error message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Analysis Mgt - NamedType AnalysisFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 476674304 - NamedType 214760479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No location or item matches the filters you set. Change the filters and run the analysis again.</source>
+          <target state="translated">Ningún almacén ni producto coincide con los filtros establecidos. Cambie los filtros y vuelva a ejecutar el análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Analysis Mgt - NamedType NothingMatchesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 350561184" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity x Qty. per Unit of Measure (%1) does not equal Qty. (Base) (%2) in the warehouse entries.</source>
+          <target state="translated">Cantidad x Cant. por unidad medida (%1) no es igual a Cantidad (base) (%2) en los movimientos de almacén.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = calculated base quantity, %2 = base quantity</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType BaseQtyMismatchCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 4221441200" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bin holds quantity but is blocked for %1 movement.</source>
+          <target state="translated">La ubicación contiene cantidad, pero está bloqueada para movimientos de tipo %1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = inbound, outbound or all</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType BlockedBinCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 1589519537" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The warehouse entries use %1 base units per unit, but the item unit of measure now has %2. Calculate Warehouse Adjustment can fail or post wrong quantities.</source>
+          <target state="translated">Los movimientos de almacén usan %1 unidades base por unidad, pero la unidad de medida del producto tiene ahora %2. Calcular ajuste almacén puede fallar o registrar cantidades incorrectas.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = old quantity per unit, %2 = current quantity per unit</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType ChangedQtyPerUoMCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 201951196" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bin does not exist at this location. It was deleted or renamed while it held quantity.</source>
+          <target state="translated">La ubicación no existe en este almacén. Se eliminó o se cambió de nombre mientras contenía cantidad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType MissingBinCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 2356971411" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The warehouse entries hold quantity in this bin, but the bin content line for the item, variant and unit of measure is missing. The quantity is not shown in Bin Contents and is not offered for picks.</source>
+          <target state="translated">Los movimientos de almacén tienen cantidad en esta ubicación, pero falta la línea de contenido de ubicación del producto, la variante y la unidad de medida. La cantidad no aparece en Contenido ubicación ni se ofrece para picking.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType MissingBinContentCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 4829494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The warehouse entries use a unit of measure that the item no longer has.</source>
+          <target state="translated">Los movimientos de almacén usan una unidad de medida que el producto ya no tiene.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType MissingUnitOfMeasureCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 2578902202" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bin content is negative. Quantity was taken from the bin that the warehouse entries never put into it.</source>
+          <target state="translated">El contenido de la ubicación es negativo. Se tomó de la ubicación una cantidad que los movimientos de almacén nunca colocaron en ella.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType NegativeBinContentCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 2929802742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The location uses directed put-away and pick but has no adjustment bin, so warehouse adjustments cannot be posted to the item ledger.</source>
+          <target state="translated">El almacén usa ubicación y picking dirigidos, pero no tiene ubicación de ajuste, por lo que los ajustes de almacén no se pueden registrar en los movimientos de producto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType NoAdjustmentBinCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 1841592956" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse entries without a bin code hold quantity at a location where bins are mandatory.</source>
+          <target state="translated">Hay movimientos de almacén sin código de ubicación que contienen cantidad en un almacén donde las ubicaciones son obligatorias.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType NoBinCodeCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 501433159" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse physical inventory journal %1 has lines for this location while the adjustment bin still holds pending adjustments.</source>
+          <target state="translated">El diario de inventario físico de almacén %1 tiene líneas para este almacén mientras la ubicación de ajuste aún contiene ajustes pendientes.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = journal template name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType OpenPhysInventoryCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4039271996 - NamedType 2727642067" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A warehouse adjustment of %1 is registered in the adjustment bin but not yet posted to the item ledger.</source>
+          <target state="translated">Hay un ajuste de almacén de %1 registrado en la ubicación de ajuste, pero aún no se ha registrado en los movimientos de producto.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = quantity</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Bin Rules - NamedType PendingAdjustmentCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 279399081" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export the evidence and ask your partner. No standard posting changes only one side, so do not try to fix this with an item or warehouse journal.</source>
+          <target state="translated">Exporte la evidencia y consulte a su partner. Ningún registro estándar cambia solo una de las partes, así que no intente corregirlo con un diario de productos o de almacén.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R1AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 1719333752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check the item tracking lines of the documents posted on the first date. No standard posting changes only one side, so ask your partner.</source>
+          <target state="translated">Revise las líneas de seguimiento de producto de los documentos registrados en la primera fecha. Ningún registro estándar cambia solo una de las partes, así que consulte a su partner.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R2AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 3427733671" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Calculate Warehouse Adjustment in the item journal and post it. Use Preview Posting first. Microsoft recommends posting warehouse adjustments regularly.</source>
+          <target state="translated">Ejecute Calcular ajuste almacén en el diario de productos y regístrelo. Use primero Vista previa de registro. Microsoft recomienda registrar los ajustes de almacén con regularidad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R3AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 1394660862" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check the warehouse entries of the bin, then move or reclassify quantity into the bin with a movement or a warehouse reclassification journal.</source>
+          <target state="translated">Revise los movimientos de almacén de la ubicación y, a continuación, mueva o reclasifique cantidad a la ubicación con un movimiento de almacén o un diario de reclasificación de almacén.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R4AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 1033138669" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correct the unit of measure before you run Calculate Warehouse Adjustment. Do not change Qty. per Unit of Measure while the unit is used in bins.</source>
+          <target state="translated">Corrija la unidad de medida antes de ejecutar Calcular ajuste almacén. No cambie Cant. por unidad medida mientras la unidad se use en ubicaciones.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R5AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 3202000188" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Move the quantity to a valid bin with a movement or a warehouse reclassification journal before you block or delete the bin.</source>
+          <target state="translated">Mueva la cantidad a una ubicación válida con un movimiento de almacén o un diario de reclasificación de almacén antes de bloquear o eliminar la ubicación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R6AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 3172140779" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Known issue: post a positive adjustment with Applies-from Entry and a negative adjustment of the same quantity with Applies-to Entry (Microsoft workaround). Otherwise ask your partner.</source>
+          <target state="translated">Problema conocido: registre un ajuste positivo con Liquid.-de mov. pdto y un ajuste negativo de la misma cantidad con Liq. por n.º orden producto (solución alternativa de Microsoft). En caso contrario, consulte a su partner.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R7AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 228352050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Calculate Warehouse Adjustment and post it before you count. Microsoft: synchronize item ledger and warehouse data before you count physical inventory.</source>
+          <target state="translated">Ejecute Calcular ajuste almacén y regístrelo antes de realizar el recuento. Microsoft: sincronice los datos de los movimientos de producto y del almacén antes de realizar el recuento del inventario físico.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R8AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 558649229 - NamedType 3086673281" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create the bin content line for this bin, item, variant and unit of measure on the Bin Contents page. Its quantity is calculated from the warehouse entries, so no posting is needed.</source>
+          <target state="translated">Cree la línea de contenido de ubicación para esta ubicación, producto, variante y unidad de medida en la página Contenido ubicación. Su cantidad se calcula a partir de los movimientos de almacén, así que no hace falta registrar nada.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Finding Mgt - NamedType R9AdviceTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3560792380 - NamedType 360785483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory is zero, but open inbound and outbound entries remain. This is the Microsoft known item application issue, often after posting without stock and then a credit memo or undo shipment.</source>
+          <target state="translated">El inventario es cero, pero quedan movimientos de entrada y de salida abiertos. Se trata del problema conocido de Microsoft con la liquidación de productos, a menudo tras registrar sin existencias y después un abono o deshacer un envío.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Ledger Rules - NamedType KnownApplicationIssueCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3560792380 - NamedType 1102221544" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bins hold quantity that the item ledger does not have. Warehouse entries were probably registered without the matching item posting.</source>
+          <target state="translated">Las ubicaciones contienen cantidad que los movimientos de producto no tienen. Probablemente se registraron movimientos de almacén sin el registro de producto correspondiente.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Ledger Rules - NamedType NoItemLedgerQtyCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3560792380 - NamedType 3113174971" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory exists in the item ledger but not in any bin. The location may have been switched to Bin Mandatory while it held stock, or entries were posted without a bin.</source>
+          <target state="translated">Hay inventario en los movimientos de producto, pero no en ninguna ubicación. Es posible que el almacén se cambiara a Ubicación obligatoria mientras tenía existencias, o que se registraran movimientos sin ubicación.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Ledger Rules - NamedType NoWarehouseQtyCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3560792380 - NamedType 3625010792" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The remaining quantity of the open item ledger entries (%1) does not match the inventory (%2). The item application is damaged.</source>
+          <target state="translated">La cantidad pendiente de los movimientos de producto abiertos (%1) no coincide con el inventario (%2). La liquidación de productos está dañada.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = remaining quantity, %2 = inventory</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Ledger Rules - NamedType RemainingDiffersCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3560792380 - NamedType 3707535334" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The item ledger and the warehouse totals (all bins, including the adjustment bin) differ. No standard posting changes only one side.</source>
+          <target state="translated">Los totales de los movimientos de producto y del almacén (todas las ubicaciones, incluida la ubicación de ajuste) son distintos. Ningún registro estándar cambia solo una de las partes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Ledger Rules - NamedType TotalsDifferCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3560792380 - NamedType 3327443649" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The item total agrees, but the quantity per lot, serial or package number differs between the item ledger and the warehouse entries.</source>
+          <target state="translated">El total del producto coincide, pero la cantidad por número de lote, de serie o de paquete es distinta entre los movimientos de producto y los movimientos de almacén.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GSO IR Ledger Rules - NamedType TrackingDiffersCauseTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About the analysis log</source>
+          <target state="translated">Acerca del historial de análisis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Every analysis is logged here with the filters it used and the number of differences it found. Open a run to see its findings.</source>
+          <target state="translated">Cada análisis se anota aquí con los filtros que utilizó y el número de diferencias que encontró. Abra una ejecución para ver sus hallazgos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check Runs</source>
+          <target state="translated">Ejecuciones de Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Action 1128560290 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the differences that this run found.</source>
+          <target state="translated">Ver las diferencias que encontró esta ejecución.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Action Findings - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Action 1128560290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Findings</source>
+          <target state="translated">Hallazgos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Action Findings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up the locations and the tolerance of the analysis.</source>
+          <target state="translated">Configurar los almacenes y la tolerancia del análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <target state="translated">Configuración</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Action 3965173957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compare the item ledger, the warehouse entries and the bin contents. The analysis only reads entries.</source>
+          <target state="translated">Comparar los movimientos de producto, los movimientos de almacén y el contenido de las ubicaciones. El análisis solo lee movimientos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Action RunAnalysis - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3964029556 - Action 3965173957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Analysis</source>
+          <target state="translated">Ejecutar análisis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Analysis Runs - Action RunAnalysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About findings</source>
+          <target state="translated">Acerca de los hallazgos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Each line is one difference with its probable cause and the Microsoft best practice to fix it. Drill down to the entries behind it. This app proposes corrections; posting them is the responsibility of the user. Consult your partner for directed put-away and pick locations.</source>
+          <target state="translated">Cada línea es una diferencia con su causa probable y las prácticas recomendadas de Microsoft para corregirla. Profundice para ver los movimientos que hay detrás. Esta aplicación propone correcciones; registrarlas es responsabilidad del usuario. Consulte a su partner para los almacenes con ubicación y picking dirigidos.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check Findings</source>
+          <target state="translated">Hallazgos de Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3005243393 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the bin contents of the item at this location.</source>
+          <target state="translated">Ver el contenido de ubicación del producto en este almacén.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action BinContents - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3005243393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin Contents</source>
+          <target state="translated">Contenido ubicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action BinContents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3505869542 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the item ledger entries behind this finding.</source>
+          <target state="translated">Ver los movimientos de producto que hay detrás de este hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action ItemLedgerEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3505869542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Entries</source>
+          <target state="translated">Movs. producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action ItemLedgerEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 4131036889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the warehouse entries behind this finding.</source>
+          <target state="translated">Ver los movimientos de almacén que hay detrás de este hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action WarehouseEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 4131036889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Entries</source>
+          <target state="translated">Movs. almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action WarehouseEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 2871059725 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the status of the selected findings to Closed.</source>
+          <target state="translated">Establecer el estado de los hallazgos seleccionados en Cerrado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action CloseFinding - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 2871059725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="translated">Cerrar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action CloseFinding - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3326116569 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the GMSOFT web page to ask for help with differences that no standard posting fixes. Nothing about the finding is sent.</source>
+          <target state="translated">Abrir la página web de GMSOFT para pedir ayuda con diferencias que ningún registro estándar corrige. No se envía ningún dato del hallazgo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action GetHelp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3326116569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Help from GMSOFT</source>
+          <target state="translated">Obtener ayuda de GMSOFT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action GetHelp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3993491650 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the status of the selected findings to Reviewed.</source>
+          <target state="translated">Establecer el estado de los hallazgos seleccionados en Revisado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action MarkReviewed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3993491650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mark as Reviewed</source>
+          <target state="translated">Marcar como revisado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action MarkReviewed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 1728998767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entries</source>
+          <target state="translated">Movimientos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action Category_Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2017785762 - Action 3673084087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Review</source>
+          <target state="translated">Revisión</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Findings - Action Category_Review - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4186576001 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Inventory Health Check</source>
+          <target state="translated">Acerca de Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Setup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 4186576001 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The app compares the item ledger, the warehouse entries and the bin contents and explains each difference. It never posts and never changes ledger entries. You review and post any correction yourself.</source>
+          <target state="translated">La aplicación compara los movimientos de producto, los movimientos de almacén y el contenido de las ubicaciones, y explica cada diferencia. Nunca registra ni cambia movimientos. Usted revisa y registra cualquier corrección.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Setup - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 4186576001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check Setup</source>
+          <target state="translated">Configuración de Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4186576001 - Control 1746372166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis</source>
+          <target state="translated">Análisis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Setup - Control Analysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4186576001 - Action 558057932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the log of analysis runs.</source>
+          <target state="translated">Ver el historial de ejecuciones de análisis.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Setup - Action AnalysisRuns - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4186576001 - Action 558057932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Runs</source>
+          <target state="translated">Ejecuciones de análisis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GSO IR Setup - Action AnalysisRuns - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compare the item ledger, the warehouse entries and the bin contents, and list every difference. The analysis only reads entries; it never posts or changes them.</source>
+          <target state="translated">Comparar los movimientos de producto, los movimientos de almacén y el contenido de las ubicaciones, y enumerar todas las diferencias. El análisis solo lee movimientos; nunca los registra ni los cambia.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Inventory Health Check</source>
+          <target state="translated">Ejecutar Inventory Health Check</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - NamedType 1174496202" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 location(s) checked: %2 critical, %3 warning(s) and %4 info finding(s).</source>
+          <target state="translated">Almacenes comprobados: %1. Hallazgos: %2 críticos, %3 advertencias y %4 informativos.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = number of locations, %2 = critical, %3 = warnings, %4 = info</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - NamedType AnalysisCompletedMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - NamedType 3731544788" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis %1 failed: %2</source>
+          <target state="translated">El análisis %1 ha fallado: %2</target>
+          <note from="Developer" annotates="general" priority="2">%1 = run number, %2 = error message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - NamedType AnalysisFailedMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - NamedType 3888874082" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 location(s) checked. The item ledger, the warehouse entries and the bin contents agree.</source>
+          <target state="translated">Almacenes comprobados: %1. Los movimientos de producto, los movimientos de almacén y el contenido de las ubicaciones coinciden.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = number of locations</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - NamedType NoFindingsMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - ReportDataItem 3276313895 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <target state="translated">Productos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - ReportDataItem Item - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - ReportDataItem 3891454143 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locations</source>
+          <target state="translated">Almacenes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - ReportDataItem Location - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run the health check</source>
+          <target state="translated">Ejecutar la comprobación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - RequestPage RequestOptionsPage - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 3132221765 - RequestPage 2516438534 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter on the locations and items to check. Only locations with Bin Mandatory are checked. Leave the location filter blank to use the filter from the setup.</source>
+          <target state="translated">Filtre por los almacenes y productos que se deben comprobar. Solo se comprueban los almacenes con Ubicación obligatoria. Deje el filtro de almacén en blanco para usar el filtro de la configuración.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report GSO IR Run Analysis - RequestPage RequestOptionsPage - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Query 3739957987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Quantity per Day</source>
+          <target state="translated">Cantidad de movimientos de producto por día</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR ILE Daily - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 680005930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Item Ledger Entries</source>
+          <target state="translated">Movimientos de producto abiertos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR ILE Open Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4047340747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Totals</source>
+          <target state="translated">Totales de movimientos de producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR ILE Totals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3650282186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Totals by Item Tracking</source>
+          <target state="translated">Totales de movimientos de producto por seguimiento de producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR ILE Tracking Totals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 595515375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Totals per Bin</source>
+          <target state="translated">Totales de almacén por ubicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR Whse Bin Totals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1532933324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Quantity per Day</source>
+          <target state="translated">Cantidad de almacén por día</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR Whse Daily - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2117954652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Totals</source>
+          <target state="translated">Totales de almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR Whse Totals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3354535777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Totals by Item Tracking</source>
+          <target state="translated">Totales de almacén por seguimiento de producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR Whse Tracking Totals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 791033217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Totals per Unit of Measure</source>
+          <target state="translated">Totales de almacén por unidad de medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query GSO IR Whse UoM Totals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 395621203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finding Status</source>
+          <target state="translated">Estado del hallazgo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Finding Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 395621203 - EnumValue 346708723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accepted</source>
+          <target state="translated">Aceptado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Finding Status - EnumValue Accepted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 395621203 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target state="translated">Cerrado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Finding Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 395621203 - EnumValue 4099242336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Prepared</source>
+          <target state="translated">Diario preparado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Finding Status - EnumValue Journal Prepared - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 395621203 - EnumValue 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <target state="translated">Nuevo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Finding Status - EnumValue New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 395621203 - EnumValue 3732000533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reviewed</source>
+          <target state="translated">Revisado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Finding Status - EnumValue Reviewed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Health Check Rule</source>
+          <target state="translated">Regla de comprobación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 3715661581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R1 - Item ledger vs. warehouse</source>
+          <target state="translated">R1 - Movs. producto frente a almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 3077964964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R2 - Item tracking mismatch</source>
+          <target state="translated">R2 - Discrepancia de seguimiento de producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 2440268347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R3 - Pending adjustment bin</source>
+          <target state="translated">R3 - Ajuste pendiente en ubicación de ajuste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 1802571730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R4 - Negative bin content</source>
+          <target state="translated">R4 - Contenido de ubicación negativo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 1164875113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R5 - Unit of measure mismatch</source>
+          <target state="translated">R5 - Discrepancia de unidad de medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 527178496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R6 - Quantity in invalid bin</source>
+          <target state="translated">R6 - Cantidad en ubicación no válida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 4184449175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R7 - Open item ledger entries</source>
+          <target state="translated">R7 - Movimientos de producto abiertos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 3546752558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R8 - Count with pending adjustment</source>
+          <target state="translated">R8 - Recuento con ajuste pendiente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 424355978 - EnumValue 2909055941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>R9 - Missing bin content</source>
+          <target state="translated">R9 - Falta contenido de ubicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Rule - EnumValue R9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 694124695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Run Status</source>
+          <target state="translated">Estado de ejecución del análisis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Run Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 694124695 - EnumValue 3665605423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <target state="translated">Completado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Run Status - EnumValue Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 694124695 - EnumValue 3826689261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed</source>
+          <target state="translated">Fallido</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Run Status - EnumValue Failed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 694124695 - EnumValue 1752522425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Running</source>
+          <target state="translated">En ejecución</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Run Status - EnumValue Running - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 213029941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Severity</source>
+          <target state="translated">Gravedad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Severity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 213029941 - EnumValue 536401205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Critical</source>
+          <target state="translated">Crítico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Severity - EnumValue Critical - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 213029941 - EnumValue 3123527090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Info</source>
+          <target state="translated">Información</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Severity - EnumValue Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 213029941 - EnumValue 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target state="translated">Advertencia</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GSO IR Severity - EnumValue Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2064101379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check - Prepare</source>
+          <target state="translated">Inventory Health Check - Preparar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet GSO IR Prepare - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 4172074222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Health Check - Read</source>
+          <target state="translated">Inventory Health Check - Lectura</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet GSO IR Read - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

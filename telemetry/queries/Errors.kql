@@ -1,0 +1,4 @@
+traces
+| where tostring(customDimensions.eventId) startswith "alGMSOFT-"
+| where severityLevel >= 2
+| order by timestamp desc

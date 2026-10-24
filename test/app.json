@@ -1,0 +1,42 @@
+{
+  "id": "dc908fa6-3911-4360-bdbc-0b75b80aab01",
+  "name": "GSO Inventory Health Check Tests",
+  "publisher": "GMSOFT Limited",
+  "version": "1.29.1.0",
+  "brief": "Automated tests for the GSO Inventory Health Check app.",
+  "description": "Test app (not for AppSource) containing automated regression tests for GSO Inventory Health Check.",
+  "dependencies": [
+    {
+      "id": "22b44ef7-69c0-4a5a-9dc7-7d5ddc45cc2a",
+      "name": "GSO Inventory Health Check",
+      "publisher": "GMSOFT Limited",
+      "version": "1.29.1.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "29.0.0.0"
+    },
+    {
+      "id": "d852d5d2-a39d-4179-baeb-f99a19e32510",
+      "name": "Application Test Library",
+      "publisher": "Microsoft",
+      "version": "29.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 50750,
+      "to": 50799
+    }
+  ],
+  "target": "Cloud",
+  "runtime": "18.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

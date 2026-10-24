@@ -1,0 +1,4 @@
+# Repository-specific Codex configuration.
+# Keep credentials outside this repository.
+
+[mcp_servers]

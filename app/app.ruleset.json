@@ -1,0 +1,11 @@
+{
+    "name": "GMSOFT Rules",
+    "description": "Code analysis rules for the production application.",
+    "rules": [
+        {
+            "id": "AS0081",
+            "action": "None",
+            "justification": "internalsVisibleTo exposes internals only to the GSO Inventory Health Check Tests app, which tests internal codeunits."
+        }
+    ]
+}

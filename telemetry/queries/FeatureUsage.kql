@@ -1,0 +1,4 @@
+traces
+| where tostring(customDimensions.eventId) == "alGMSOFT-0001"
+| summarize Count=count() by tostring(customDimensions.feature)
+| order by Count desc

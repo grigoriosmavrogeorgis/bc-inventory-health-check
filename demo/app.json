@@ -1,0 +1,35 @@
+{
+  "id": "596ec9de-18ef-41af-82f6-a59f8cc9f3e9",
+  "name": "GSO Inventory Health Check Demo Data",
+  "publisher": "GMSOFT Limited",
+  "version": "1.29.1.0",
+  "brief": "Demo Data for GSO Inventory Health Check",
+  "description": "Creates a demo scenario for GSO Inventory Health Check in a demo or sandbox company: one directed and one bin location, pending warehouse adjustments and deliberate differences. Install only in demo, trial or training environments; the main app does not depend on it.",
+  "dependencies": [
+    {
+      "id": "22b44ef7-69c0-4a5a-9dc7-7d5ddc45cc2a",
+      "name": "GSO Inventory Health Check",
+      "publisher": "GMSOFT Limited",
+      "version": "1.29.1.0"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 61100,
+      "to": 61199
+    }
+  ],
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
+  "runtime": "18.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "supportedLocales": [
+    "en-GB",
+    "el-GR",
+    "it-IT"
+  ]
+}

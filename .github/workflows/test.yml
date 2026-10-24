@@ -1,0 +1,22 @@
+name: Test
+on:
+  workflow_dispatch:
+  pull_request:
+
+jobs:
+  test:
+    # Hosted Windows runners have Docker with Windows containers, which the BC container needs.
+    runs-on: windows-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run tests in a Business Central container
+        shell: pwsh
+        run: ./scripts/Test.ps1
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: artifacts/TestResults.xml
+          if-no-files-found: warn

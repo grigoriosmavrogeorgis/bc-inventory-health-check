@@ -1,0 +1,11 @@
+{
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+        "${analyzerFolder}ALCops.Common.dll",
+        "${analyzerFolder}ALCops.LinterCop.dll"
+    ],
+    "al.enableCodeAnalysis": true,
+    "al.backgroundCodeAnalysis": "Project",
+    "al.ruleSetPath": "test.ruleset.json"
+}

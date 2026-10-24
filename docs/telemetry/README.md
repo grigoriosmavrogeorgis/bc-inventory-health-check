@@ -1,0 +1,3 @@
+# Telemetry
+
+Project documentation placeholder.

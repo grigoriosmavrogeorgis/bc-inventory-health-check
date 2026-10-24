@@ -1,0 +1,47 @@
+# AL packages
+**/.alpackages/*
+!**/.alpackages/.gitkeep
+*.app
+
+# Generated output
+artifacts/*
+!artifacts/.gitkeep
+build/*
+!build/.gitkeep
+
+# AL generated
+*.rad.json
+rad.json
+snapshots.json
+
+# Logs / test results
+*.log
+TestResults/
+*.trx
+
+# Local / secrets
+.env
+.env.*
+!.env.example
+*.secret.json
+secrets.json
+credentials.json
+.claude/settings.local.json
+CLAUDE.local.md
+.mcp.local.json
+.vscode/mcp.local.json
+.codex/local/
+
+# MCP builds
+mcp/**/node_modules/
+mcp/**/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AL Test Runner (can hold container credentials)
+**/.altestrunner/
+
+# AL compiler cache
+**/.alcache/

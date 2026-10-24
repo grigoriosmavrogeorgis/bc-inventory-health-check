@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "name": "Application",
+            "path": "app"
+        },
+        {
+            "name": "Inventory Health Check (Demo Data)",
+            "path": "demo"
+        },
+        {
+            "name": "Tests",
+            "path": "test"
+        }
+    ],
+    "settings": {
+        "editor.formatOnSave": true,
+        "files.trimTrailingWhitespace": true
+    }
+}
