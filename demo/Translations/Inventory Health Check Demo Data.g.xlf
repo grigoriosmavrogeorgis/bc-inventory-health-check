@@ -2,7 +2,33 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Inventory Health Check Demo Data">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="PageExtension 2319630680 - NamedType 4218030817" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2319630680">
+          <source>The demo data already exists at locations %1 and %2.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = directed location code, %2 = bin location code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GSO IR Demo Setup - NamedType AlreadyExistsMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2319630680 - NamedType 976028651" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2319630680">
+          <source>The demo data was created at locations %1 and %2. Run the Inventory Health Check to see the findings.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = directed location code, %2 = bin location code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GSO IR Demo Setup - NamedType CreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2319630680 - NamedType 1143179046" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2319630680">
+          <source>This inserts item ledger entries and warehouse entries with deliberate differences for demo items. Do this only in a demo, trial or training company.\\Do you want to create the demo data?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GSO IR Demo Setup - NamedType CreateQst</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2319630680 - Action 217870905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4186576001">
+          <source>Create two demo locations and demo items with deliberate differences between the item ledger, the warehouse entries and the bin contents, so that every health check rule has something to report. Use this only in a demo, trial or training company.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GSO IR Demo Setup - Action GSOIRCreateDemoData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2319630680 - Action 217870905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4186576001">
+          <source>Create Demo Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GSO IR Demo Setup - Action GSOIRCreateDemoData - Property Caption</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
