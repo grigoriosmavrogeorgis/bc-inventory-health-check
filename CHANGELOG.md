@@ -7,6 +7,7 @@
 - Analysis run log, findings list with probable cause, Microsoft advice and drill-down to item ledger entries, warehouse entries and bin contents.
 - Setup page, permission sets GSO IR Read and GSO IR Prepare.
 - All totals come from Query objects with SUM; the app is read-only on every ledger table and never posts.
+- Demo data app: codeunit GSO IR Demo Data creates locations IHC-DIRECT and IHC-BINS with demo items IHC-1001..IHC-2005 so that rules R1-R9 each report a finding. It runs on install in evaluation companies only; elsewhere use Create Demo Data on the setup page.
 
 Fixes from the code review of 23-10-2026:
 
