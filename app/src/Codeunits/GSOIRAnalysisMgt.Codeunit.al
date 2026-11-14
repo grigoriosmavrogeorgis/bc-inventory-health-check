@@ -4,7 +4,7 @@ using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 using System.Text;
 
-codeunit 73033907 "GSO IR Analysis Mgt"
+codeunit 73031492 "GSO IR Analysis Mgt"
 {
     // Entry point for an analysis: logs the run, runs the engine and records the result.
     // The run log is read-only for users; only this codeunit and the engine write to it.

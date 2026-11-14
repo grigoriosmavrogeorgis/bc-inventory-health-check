@@ -3,7 +3,7 @@ namespace GMSOFT.InventoryHealthCheck;
 using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 
-report 73033900 "GSO IR Run Analysis"
+report 73031485 "GSO IR Run Analysis"
 {
     Caption = 'Run Inventory Health Check';
     ToolTip = 'Compare the item ledger, the warehouse entries and the bin contents, and list every difference. The analysis only reads entries; it never posts or changes them.';

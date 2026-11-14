@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-codeunit 73033902 "GSO IR Telemetry"
+codeunit 73031487 "GSO IR Telemetry"
 {
     // Event catalogue (keep IDs stable once released):
     //   GSOIHC-0001  Feature used ("Get Help": the user opened the GMSOFT page from a finding; result = rule number)

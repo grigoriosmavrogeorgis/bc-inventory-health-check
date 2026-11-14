@@ -4,7 +4,7 @@ using GMSOFT.InventoryHealthCheck;
 using System.TestLibraries.Utilities;
 using System.Upgrade;
 
-codeunit 50759 "GSO IR Upgrade Tests"
+codeunit 50109 "GSO IR Upgrade Tests"
 {
     // Upgrade tags: named by the GMSOFT rule, unique, and already set in a company where the app is installed.
     Subtype = Test;

@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-page 73033900 "GSO IR Setup"
+page 73031485 "GSO IR Setup"
 {
     Caption = 'Inventory Health Check Setup';
     PageType = Card;

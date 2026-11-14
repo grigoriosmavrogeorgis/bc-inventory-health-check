@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Warehouse.Ledger;
 
-query 73033905 "GSO IR Whse Tracking Totals"
+query 73031490 "GSO IR Whse Tracking Totals"
 {
     // R2 adds the rows up per item tracking key, so the unit of measure column does not change it.
     // R3 reads one bin (the adjustment bin) and needs every unit of measure and tracking group apart.

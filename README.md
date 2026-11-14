@@ -6,8 +6,8 @@ Open `InventoryHealthCheck.code-workspace` in VS Code. It contains three AL proj
 
 | Folder | Project | Object IDs |
 |---|---|---|
-| `app` | Inventory Health Check (AppSource) | 73033900-73033959 |
-| `test` | Inventory Health Check Tests (never submitted) | 50750-50799 |
-| `demo` | Inventory Health Check Demo Data (sandbox only) | 61100-61199 |
+| `app` | Inventory Health Check (AppSource) | 73031485-73031504 |
+| `test` | Inventory Health Check Tests (never submitted) | 50100-50199 |
+| `demo` | Inventory Health Check Demo Data (sandbox only) | 60100-60199 |
 
 User guide: `docs` (public). Specification, market notes and pricing are in `..\docs` (not in this repository).

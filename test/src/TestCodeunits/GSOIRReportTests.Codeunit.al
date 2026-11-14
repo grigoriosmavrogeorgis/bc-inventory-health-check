@@ -5,7 +5,7 @@ using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 using System.TestLibraries.Utilities;
 
-codeunit 50758 "GSO IR Report Tests"
+codeunit 50108 "GSO IR Report Tests"
 {
     // Report "GSO IR Run Analysis": passes its filters to the analysis and tells the user the result.
     Subtype = Test;

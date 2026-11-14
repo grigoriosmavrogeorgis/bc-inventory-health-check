@@ -5,7 +5,7 @@ using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 using System.TestLibraries.Utilities;
 
-codeunit 50755 "GSO IR Finding Tests"
+codeunit 50105 "GSO IR Finding Tests"
 {
     // The finding record and "GSO IR Finding Mgt": defaults on insert, status history,
     // advice per rule, the first-date search and the total helpers.

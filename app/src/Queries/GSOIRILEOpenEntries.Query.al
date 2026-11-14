@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Inventory.Ledger;
 
-query 73033902 "GSO IR ILE Open Entries"
+query 73031487 "GSO IR ILE Open Entries"
 {
     Caption = 'Open Item Ledger Entries';
     QueryType = Normal;

@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Inventory.Location;
 
-codeunit 73033904 "GSO IR Ledger Rules"
+codeunit 73031489 "GSO IR Ledger Rules"
 {
     // Rules that compare the item ledger with the warehouse ledger of one location:
     //   R1  item ledger total <> warehouse total over all bins (incl. adjustment bin)

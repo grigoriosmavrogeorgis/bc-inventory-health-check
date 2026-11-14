@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-permissionset 73033901 "GSO IR Prepare"
+permissionset 73031486 "GSO IR Prepare"
 {
     // Everything in "GSO IR Read", plus the setup and the findings. Journal tables are
     // added here when the journal preparer is built; ledger tables stay read only.

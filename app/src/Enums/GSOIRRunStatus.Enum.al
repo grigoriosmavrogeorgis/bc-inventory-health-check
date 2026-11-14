@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-enum 73033903 "GSO IR Run Status"
+enum 73031488 "GSO IR Run Status"
 {
     Caption = 'Analysis Run Status';
     Extensible = false;

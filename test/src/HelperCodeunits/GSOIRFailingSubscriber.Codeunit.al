@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck.Test;
 
 using GMSOFT.InventoryHealthCheck;
 
-codeunit 50760 "GSO IR Failing Subscriber"
+codeunit 50110 "GSO IR Failing Subscriber"
 {
     // Bind with BindSubscription to make the analysis fail when it writes its first finding.
     // Used to test the failed-run path: status, error message and rollback of the findings.

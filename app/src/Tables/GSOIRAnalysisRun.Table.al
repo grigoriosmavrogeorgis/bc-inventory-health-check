@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-table 73033901 "GSO IR Analysis Run"
+table 73031486 "GSO IR Analysis Run"
 {
     Caption = 'Inventory Health Check Analysis Run';
     DataClassification = CustomerContent;

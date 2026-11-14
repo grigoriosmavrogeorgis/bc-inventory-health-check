@@ -9,7 +9,7 @@ using Microsoft.Warehouse.Journal;
 using Microsoft.Warehouse.Ledger;
 using Microsoft.Warehouse.Structure;
 
-codeunit 50751 "GSO IR Test Helper"
+codeunit 50101 "GSO IR Test Helper"
 {
     // Builds item ledger and warehouse scenarios by inserting entries directly.
     // This is only allowed in the test app: the main app never writes to ledger tables.

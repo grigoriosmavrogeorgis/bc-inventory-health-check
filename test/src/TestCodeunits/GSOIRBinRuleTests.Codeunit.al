@@ -5,7 +5,7 @@ using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 using System.TestLibraries.Utilities;
 
-codeunit 50753 "GSO IR Bin Rule Tests"
+codeunit 50103 "GSO IR Bin Rule Tests"
 {
     // Edge cases of the warehouse rules (R3, R4, R5, R6, R8) that "GSO IR Analysis Tests" does not cover.
     Subtype = Test;

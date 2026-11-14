@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-enum 73033901 "GSO IR Severity"
+enum 73031486 "GSO IR Severity"
 {
     Caption = 'Severity';
     Extensible = false;

@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-enum 73033902 "GSO IR Finding Status"
+enum 73031487 "GSO IR Finding Status"
 {
     Caption = 'Finding Status';
     Extensible = false;

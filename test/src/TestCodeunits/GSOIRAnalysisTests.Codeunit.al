@@ -5,7 +5,7 @@ using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 using System.TestLibraries.Utilities;
 
-codeunit 50750 "GSO IR Analysis Tests"
+codeunit 50100 "GSO IR Analysis Tests"
 {
     Subtype = Test;
     TestPermissions = Disabled;

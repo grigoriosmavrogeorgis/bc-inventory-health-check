@@ -6,7 +6,7 @@ using System.Upgrade;
 /// Upgrade logic. Each step is guarded by an upgrade tag so it runs once per company.
 /// A fresh install sets every tag (see "GSO IR Install"), so no step runs there.
 /// </summary>
-codeunit 73033901 "GSO IR Upgrade"
+codeunit 73031486 "GSO IR Upgrade"
 {
     Subtype = Upgrade;
     Access = Internal;

@@ -8,7 +8,7 @@ using System.Environment;
 /// Data action on the setup page, because the scenario inserts ledger entries on purpose. The work runs
 /// as a background task after the install has committed, so a failure cannot stop the installation.
 /// </summary>
-codeunit 61101 "GSO IR Demo Install"
+codeunit 60101 "GSO IR Demo Install"
 {
     Subtype = Install;
     Access = Internal;

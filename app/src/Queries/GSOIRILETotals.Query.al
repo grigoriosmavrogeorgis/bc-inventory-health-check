@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Inventory.Ledger;
 
-query 73033900 "GSO IR ILE Totals"
+query 73031485 "GSO IR ILE Totals"
 {
     Caption = 'Item Ledger Totals';
     QueryType = Normal;

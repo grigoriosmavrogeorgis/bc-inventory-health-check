@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using System.Upgrade;
 
-codeunit 73033900 "GSO IR Install"
+codeunit 73031485 "GSO IR Install"
 {
     Subtype = Install;
     Access = Internal;

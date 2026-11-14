@@ -8,7 +8,7 @@ using Microsoft.Warehouse.Journal;
 using Microsoft.Warehouse.Ledger;
 using Microsoft.Warehouse.Structure;
 
-permissionset 73033900 "GSO IR Read"
+permissionset 73031485 "GSO IR Read"
 {
     // Run the analysis and review findings. Ledger tables are read only: this app
     // never inserts, modifies or deletes Item Ledger Entry, Warehouse Entry or Bin Content.

@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Warehouse.Ledger;
 
-query 73033908 "GSO IR Whse Daily"
+query 73031493 "GSO IR Whse Daily"
 {
     Caption = 'Warehouse Quantity per Day';
     QueryType = Normal;

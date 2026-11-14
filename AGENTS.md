@@ -35,8 +35,8 @@ Production objects must be placed according to AL object type:
 Do not introduce feature-based folders under `app/src`.
 
 ## Object Ranges
-- Production: 73033900..73033959
-- Tests: 50750..50799 (demo: 61100..61199)
+- Production: 73031485..73031504
+- Tests: 50100..50199 (demo: 60100..60199)
 
 Never create AL objects outside these ranges unless the project explicitly changes them.
 

@@ -5,7 +5,7 @@ using Microsoft.Inventory.Location;
 using Microsoft.Warehouse.Journal;
 using Microsoft.Warehouse.Structure;
 
-codeunit 73033905 "GSO IR Bin Rules"
+codeunit 73031490 "GSO IR Bin Rules"
 {
     // Rules on the warehouse side of one location:
     //   R3  adjustment bin balance <> 0 per unit of measure and item tracking (pending warehouse adjustment, directed locations)

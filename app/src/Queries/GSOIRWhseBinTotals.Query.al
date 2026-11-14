@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Warehouse.Ledger;
 
-query 73033906 "GSO IR Whse Bin Totals"
+query 73031491 "GSO IR Whse Bin Totals"
 {
     // Port of the NAV 2017 query 50000 "Bin Total Quantity". Grouped like the
     // primary key of Bin Content, so each row is one bin content line.

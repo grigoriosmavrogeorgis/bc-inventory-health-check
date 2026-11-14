@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Warehouse.Ledger;
 
-query 73033907 "GSO IR Whse UoM Totals"
+query 73031492 "GSO IR Whse UoM Totals"
 {
     Caption = 'Warehouse Totals per Unit of Measure';
     QueryType = Normal;

@@ -6,7 +6,7 @@ using Microsoft.Inventory.Tracking;
 using Microsoft.Warehouse.Ledger;
 using Microsoft.Warehouse.Structure;
 
-codeunit 73033903 "GSO IR Finding Mgt"
+codeunit 73031488 "GSO IR Finding Mgt"
 {
     // Creates findings, holds the advice texts per rule, finds the first date of a
     // difference and opens the standard entry pages for drill-down. Read-only on

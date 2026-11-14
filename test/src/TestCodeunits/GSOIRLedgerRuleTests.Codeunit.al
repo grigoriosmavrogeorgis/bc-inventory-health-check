@@ -5,7 +5,7 @@ using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 using System.TestLibraries.Utilities;
 
-codeunit 50752 "GSO IR Ledger Rule Tests"
+codeunit 50102 "GSO IR Ledger Rule Tests"
 {
     // Edge cases of the item ledger rules (R1, R2, R7) that "GSO IR Analysis Tests" does not cover:
     // tolerance, warehouse surplus, variants, serial and package numbers, and the First Date switch.

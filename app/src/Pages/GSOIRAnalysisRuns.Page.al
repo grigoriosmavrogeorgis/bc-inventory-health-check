@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-page 73033901 "GSO IR Analysis Runs"
+page 73031486 "GSO IR Analysis Runs"
 {
     Caption = 'Inventory Health Check Runs';
     PageType = List;

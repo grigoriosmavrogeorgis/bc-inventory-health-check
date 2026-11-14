@@ -5,7 +5,7 @@ using Microsoft.Inventory.Journal;
 using Microsoft.Warehouse.Journal;
 using System.Security.AccessControl;
 
-table 73033900 "GSO IR Setup"
+table 73031485 "GSO IR Setup"
 {
     Caption = 'Inventory Health Check Setup';
     DataClassification = CustomerContent;

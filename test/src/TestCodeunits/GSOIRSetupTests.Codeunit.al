@@ -6,7 +6,7 @@ using Microsoft.Inventory.Location;
 using Microsoft.Warehouse.Journal;
 using System.TestLibraries.Utilities;
 
-codeunit 50756 "GSO IR Setup Tests"
+codeunit 50106 "GSO IR Setup Tests"
 {
     // The setup table: defaults, InsertIfNotExists, GetRecordOnce and the journal template/batch pairs.
     Subtype = Test;

@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Inventory.Location;
 
-codeunit 73033906 "GSO IR Analysis Engine"
+codeunit 73031491 "GSO IR Analysis Engine"
 {
     // Runs every rule for every location in the run's filter, one location at a time.
     // Only locations with Bin Mandatory have warehouse entries, so only those are checked.

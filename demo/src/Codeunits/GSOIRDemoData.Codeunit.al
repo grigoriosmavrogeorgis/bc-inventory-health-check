@@ -26,7 +26,7 @@ using Microsoft.Warehouse.Structure;
 /// test helper does. Use it only in demo, trial or training companies. It only adds its own items and
 /// locations and does nothing when the demo locations already exist.
 /// </summary>
-codeunit 61100 "GSO IR Demo Data"
+codeunit 60100 "GSO IR Demo Data"
 {
     Access = Public;
     Permissions = tabledata "Item Ledger Entry" = ri,

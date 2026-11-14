@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck;
 
-enum 73033900 "GSO IR Rule"
+enum 73031485 "GSO IR Rule"
 {
     Caption = 'Health Check Rule';
     Extensible = false;

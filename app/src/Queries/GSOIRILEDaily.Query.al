@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck;
 
 using Microsoft.Inventory.Ledger;
 
-query 73033903 "GSO IR ILE Daily"
+query 73031488 "GSO IR ILE Daily"
 {
     Caption = 'Item Ledger Quantity per Day';
     QueryType = Normal;

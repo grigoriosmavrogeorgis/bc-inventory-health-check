@@ -1,6 +1,6 @@
 namespace GMSOFT.InventoryHealthCheck.Test;
 
-codeunit 50799 "GSO IR Test Runner"
+codeunit 50149 "GSO IR Test Runner"
 {
     Subtype = TestRunner;
     TestIsolation = Codeunit;

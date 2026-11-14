@@ -2,7 +2,7 @@ namespace GMSOFT.InventoryHealthCheck.Demo;
 
 using GMSOFT.InventoryHealthCheck;
 
-pageextension 61100 "GSO IR Demo Setup" extends "GSO IR Setup"
+pageextension 60100 "GSO IR Demo Setup" extends "GSO IR Setup"
 {
     actions
     {

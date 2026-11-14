@@ -3,7 +3,7 @@ namespace GMSOFT.InventoryHealthCheck;
 using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 
-table 73033902 "GSO IR Finding"
+table 73031487 "GSO IR Finding"
 {
     Caption = 'Inventory Health Check Finding';
     DataClassification = CustomerContent;

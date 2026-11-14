@@ -1,7 +1,7 @@
 {
     "id": "22b44ef7-69c0-4a5a-9dc7-7d5ddc45cc2a",
     "name": "Inventory Health Check",
-    "version": "1.29.1.0",
+    "version": "1.29.2.0",
     "brief": "Free check that finds where Item Ledger, Warehouse Entries and Bin Content do not agree - without changing any ledger entry.",
     "description": "Inventory Health Check is the free diagnosis from GMSOFT. It compares Item Ledger Entries, Warehouse Entries and Bin Content per item, variant, location, bin and lot, explains each difference with its probable cause and the Microsoft best practice to fix it, and shows the entries behind it. The app only reads; it never posts and never changes ledger entries.",
     "privacyStatement": "https://gmsoftdynamics.com/privacy-statement-uk/",
@@ -15,8 +15,8 @@
     "application": "29.0.0.0",
     "idRanges": [
         {
-            "from": 73033900,
-            "to": 73033959
+            "from": 73031485,
+            "to": 73031504
         }
     ],
     "contextSensitiveHelpUrl": "https://gmsoftdynamics.com/apps/free/inventory-health-check/docs/",

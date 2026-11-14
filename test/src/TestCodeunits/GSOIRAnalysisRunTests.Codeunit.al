@@ -5,7 +5,7 @@ using Microsoft.Inventory.Item;
 using Microsoft.Inventory.Location;
 using System.TestLibraries.Utilities;
 
-codeunit 50754 "GSO IR Analysis Run Tests"
+codeunit 50104 "GSO IR Analysis Run Tests"
 {
     // The analysis run log: what a run records, failed runs, location filters, totals and deletion.
     Subtype = Test;

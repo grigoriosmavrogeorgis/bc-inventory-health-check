@@ -9,7 +9,7 @@ using Microsoft.Warehouse.Setup;
 using Microsoft.Warehouse.Structure;
 using System.TestLibraries.Utilities;
 
-codeunit 50757 "GSO IR Page Tests"
+codeunit 50107 "GSO IR Page Tests"
 {
     // The user-facing pages: review actions and drill-downs on Findings, the Analysis Runs
     // navigation and the setup card.
